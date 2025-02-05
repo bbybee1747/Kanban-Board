@@ -26,6 +26,8 @@ after installing the application, navigate to the login page and sign in with on
 
 Link for deployed application:
 
+https://kanban-board-leil.onrender.com
+
 ## Tests
 
 All testing was done via the terminal and through Xpert Learning Assistant.
@@ -38,7 +40,7 @@ Xpert Learning Assistant provided invaluable support with coding concepts, debug
 
 ## Questions
 
-https://github.com/bbybee1747
+https://github.com/bbybee1747/Kanband-Board
 
 For additional questions, please contact me at bybee.brandon1@gmail.com
 
