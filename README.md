@@ -16,6 +16,9 @@
 
 This application allows a user to sign into a Kanban Board, which is a task management tool that can assign the todo, progress, and finish. This app is for JWT testing purposes.
 
+![Screenshot 2025-02-12 092649](https://github.com/user-attachments/assets/f11f8046-c8de-4bb1-ae5d-d732509a14ec)
+
+
 ## Installation
 
 To install this app, be sure to copy the code from the Repository and run the command `npm run i` to install the required dependencies, `npm run seed` to add the seeded data to log in to the application, and run the command `npm run start:dev` to start the server.
